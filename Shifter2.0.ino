@@ -2,8 +2,8 @@
 #define potDAP    A0
 #define NUM_LEDS  6       // define the number of LEDs here
 #define NUM_LEDS2 12      // define the number of LEDs here
-#define LED_PIN   12      // Mode LED
-#define LED_PIN2  13      // LED in shifter
+#define LED_PIN   11      // Mode LED
+#define LED_PIN2  12      // LED in shifter
 #define Ena       5       //enable pin, controls the speed of the motor
 #define m1        4       //m1 and m2 control the direction of the motor
 #define m2        3
